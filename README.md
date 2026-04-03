@@ -2,7 +2,7 @@
  ![image0](https://github.com/user-attachments/assets/73a547b9-98e0-44f5-bb2a-2eed96b553bd)
 
 
-**Purpose:** Ethical cybersecurity research, mesh-based botnet exploration, long-term persistent control of Android devices via open ADB, and encrypted peer-to-peer botnet mesh command.
+**Purpose:** Ethical cybersecurity research, mesh-based communication system for exploration, long-term persistent control of Android devices via open ADB, and encrypted peer-to-peer mesh command.
 
 ---
 
